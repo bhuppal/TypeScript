@@ -1,0 +1,27 @@
+How to install TypeScript?
+Answer:
+Step #1: Install Node.js package manager
+https://nodejs.org/en/
+https://nodejs.org/dist/v10.15.0/node-v10.15.0-x64.msi
+
+Step #2: Using command prompt, issue the following command. This will install globally.
+> npm install -g typescript
+
+How to check whether TypeScript is installed or not. To check with version?
+Answwer: In the command prompt, provide the following command
+> tsc --version  or tsc -v 
+To find the help
+> tsc --help or tsc -h
+
+TypeScript Source code link
+https://github.com/Microsoft/TypeScript
+
+Video tutorial about TypeScript and author Anders Hejlsberg
+https://channel9.msdn.com/Events/Build/2017/B8088/
+
+TypeScript Specification Docomentation link
+DOCX format:
+https://github.com/Microsoft/TypeScript/blob/master/doc/TypeScript%20Language%20Specification.docx?raw=true
+PDF format:
+https://github.com/Microsoft/TypeScript/blob/master/doc/TypeScript%20Language%20Specification.pdf?raw=true
+
